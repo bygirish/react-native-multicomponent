@@ -20,6 +20,7 @@ A `<EwMultipleComponentValue>` component for React Native to add and delete a co
   showDeleteAlertbox = { true } // To show delete alertbox of component is deleted.
   alertboxData = {{ heading: 'Test', message: 'Do you want to delete this ?'  }} // To add custom heading and messaging if show alertbox is true
 />
+
 ```
 
 ## Demo (Add button)
