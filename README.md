@@ -28,3 +28,9 @@ A `<EwMultipleComponentValue>` component for React Native to add and delete a co
 ## Demo (Delete button)
 
 <img src = './demo-delete.gif' />
+
+## Contribution
+
+* <a href="https://github.com/bygirish">@ Girish Kumar Gupta</a> Contributor
+* <a href="https://github.com/Simerdeep">@ Simerdeep Singh</a> Contributor
+
