@@ -1,6 +1,6 @@
 {
-  "name": "multicomponent",
-  "version": "1.0.3",
+  "name": "react-native-multicomponent",
+  "version": "1.0.0",
   "description": "To add and delete a component multiple times",
   "main": "src/index.js",
   "scripts": {
@@ -8,19 +8,30 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Simerdeep/react-native-multicomponent.git"
+    "url": "git+https://github.com/bygirish/react-native-multicomponent.git"
   },
   "keywords": [
     "react-native"
   ],
-  "author": "Simerdeep Singh",
+
+  "contributors":[
+    { "name" : "Simerdeep Singh", 
+      "email" : "smrdp13@gmail.com",
+      "url" : "https://github.com/Simerdeep"
+    },
+    { "name" : "Girish Gupta", 
+      "email" : "girishkumargupta3@gmail.com",
+      "url" : "https://github.com/bygirish"
+    }
+  ],
+
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Simerdeep/react-native-multicomponent/issues"
+    "url": "https://github.com/bygirish/react-native-multicomponent/issues"
   },
   "dependencies": {
     "native-base": "^2.4.5"
   },
   
-  "homepage": "https://github.com/Simerdeep/react-native-multicomponent#readme"
+  "homepage": "https://github.com/bygirish/react-native-multicomponent#readme"
 }
